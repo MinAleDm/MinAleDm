@@ -1,3 +1,5 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yachayka)
-
-![](https://komarev.com/ghpvc/?username=yachayka)
+<p align="center">
+  <samp>
+    <a href="mailto:petrushenko184@mail.ru">mail</a>
+  </samp>
+</p>
